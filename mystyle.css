@@ -147,11 +147,11 @@ body {
    color: #006181;
    text-align: left;
    bottom: 0;
-   /*text-shadow:
-     -1px -1px 0 #006181,
-      1px -1px 0 #006181,
-      -1px 1px 0 #006181,
-       1px 1px 0 #006181;*/
+   text-shadow:
+     -1px -1px 0 #3c4345,
+      1px -1px 0 #3c4345,
+      -1px 1px 0 #3c4345,
+       1px 1px 0 #3c4345;
  }
 
  .image:hover .name {
