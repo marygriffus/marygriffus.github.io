@@ -148,10 +148,10 @@ body {
    text-align: left;
    bottom: 0;
    text-shadow:
-     -1px -1px 0 #282b36,
-      1px -1px 0 #282b36,
-      -1px 1px 0 #282b36,
-       1px 1px 0 #282b36;
+     -1px -1px 0 #006181,
+      1px -1px 0 #006181,
+      -1px 1px 0 #006181,
+       1px 1px 0 #006181;
  }
 
  .image:hover .name {
