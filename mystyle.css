@@ -118,7 +118,7 @@ body {
  }
 
  .image {
-   width: 25%;
+   width: 15%;
    height: 300px;
    display: inline-block;
    background-color: rgba(100, 100, 100, 0.6);
@@ -132,7 +132,7 @@ body {
 
  .image:hover {
    background-color: rgba(100, 100, 100, 0.6);
-   width: 45%;
+   width: 35%;
    -webkit-transition: width .5s ease-in-out, background-color .5s ease-in-out;
    -moz-transition: width .5s ease-in-out, background-color .5s ease-in-out;
    -ms-transition: width .5s ease-in-out, background-color .5s ease-in-out;
@@ -190,13 +190,17 @@ body {
  }
 
  .image.one {
-   background-image: url(http://i.imgur.com/iZwX0cD.jpg);
+   background-image: url(http://i.imgur.com/UfToIqt.png);
  }
 
  .image.two {
-   background-image: url(http://i.imgur.com/ddcXAXX.jpg);
+   background-image: url(http://i.imgur.com/iZwX0cD.jpg);
  }
 
  .image.three {
+   background-image: url(http://i.imgur.com/ddcXAXX.jpg);
+ }
+
+ .image.four {
    background-image: url(http://i.imgur.com/NeLciK4.jpg);
  }
