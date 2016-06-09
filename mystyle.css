@@ -118,7 +118,7 @@ body {
  }
 
  .image {
-   width: 15%;
+   width: 20%;
    height: 300px;
    display: inline-block;
    background-color: rgba(100, 100, 100, 0.6);
@@ -132,7 +132,7 @@ body {
 
  .image:hover {
    background-color: rgba(100, 100, 100, 0.6);
-   width: 35%;
+   width: 40%;
    -webkit-transition: width .5s ease-in-out, background-color .5s ease-in-out;
    -moz-transition: width .5s ease-in-out, background-color .5s ease-in-out;
    -ms-transition: width .5s ease-in-out, background-color .5s ease-in-out;

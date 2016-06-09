@@ -9,7 +9,3 @@ document.querySelector(".block.image.two").addEventListener("mouseover", functio
 document.querySelector(".block.image.three").addEventListener("mouseover", function(){
   document.querySelector(".project-info").innerHTML="Cups of Data: I created this site to help women find their best-fitting bras through precise metrics.";
 })
-
-document.querySelector(".block.image.four").addEventListener("mouseover", function(){
-  document.querySelector(".project-info").innerHTML="Concentration: change the difficulty level, try for a better time, or play... in space!";
-})
